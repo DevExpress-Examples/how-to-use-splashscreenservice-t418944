@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainPage.xaml](./CS/App1/MainPage.xaml) (VB: [MainPage.xaml](./VB/App1/MainPage.xaml))**
+* [MainViewModel.cs](./CS/App1/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/App1/MainViewModel.vb))
+<!-- default file list end -->
 # How to use SplashScreenService
 
 
