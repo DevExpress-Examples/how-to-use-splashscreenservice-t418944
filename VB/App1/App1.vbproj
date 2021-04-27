@@ -142,7 +142,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <SDKReference Include="DevExpress.Uwp, Version=21.1">
+    <SDKReference Include="DevExpress.Uwp, Version=20.1">
       <Name>DevExpress.Uwp</Name>
     </SDKReference>
   </ItemGroup>
